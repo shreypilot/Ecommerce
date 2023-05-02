@@ -118,4 +118,27 @@ http://localhost:3000
 - Redux: A predictable state container for JavaScript apps
 - Tailwind CSS: A utility-first CSS framework for rapid UI development
 - Stripe: A payment gateway for online businesses
-- Firebase: 
+- Firebase: Firebase is a backend-as-a-service platform that provides a variety of tools and services for building and managing web and mobile applications. In this project, we're using Firebase to handle user authentication and store product data in a database.
+
+Some of the Firebase services we're using include:
+
+- Authentication: Firebase Authentication provides a simple way to authenticate users with email and password or using other popular authentication providers like Google, Facebook, or Twitter.
+- Cloud Firestore: Cloud Firestore is a flexible, scalable, and real-time NoSQL document database that stores data in documents organized into collections. We're using Firestore to store product data and manage orders.
+- Firebase Hosting: Firebase Hosting provides fast and secure hosting for your web app. We're using Firebase Hosting to deploy our ecommerce website.
+
+## Features
+
+This ecommerce website includes the following features:
+
+- Browse products by category or search by keyword
+- View product details, including name, price, description, and images
+- Add products to cart and update the quantity
+- Checkout using Stripe payment gateway
+- View order history and order details
+- Authentication with email and password
+
+## Contributing
+
+If you want to contribute to this project, please feel free to submit a pull request. Before submitting a pull request, please make sure your changes are consistent with the project's style and conventions.
+
+
